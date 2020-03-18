@@ -12,6 +12,8 @@ namespace Git_Test
         {
             Console.WriteLine("Third commit");
 
+            Console.WriteLine("Branch 2 changes");
+            
             Console.ReadLine();
         }
     }
